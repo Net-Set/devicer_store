@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+devicer.cmsmasters.net	TRUE	/	FALSE	1999999999	wp_woocommerce_session_ff6a18fb010464270b2a3a84d1e083bd	t_47927c135f5ddd9fc26590874241b2%7C%7C1668843133%7C%7C1668839533%7C%7C688576899a9c998c4774f55d8f140650
+devicer.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+devicer.cmsmasters.net	TRUE	/	FALSE	1999999999	yith_wcwl_session_ff6a18fb010464270b2a3a84d1e083bd	%7B%22session_id%22%3A%224f8a865f84d9eb55f3c409b66ed9b8da%22%2C%22session_expiration%22%3A1671263098%2C%22session_expiring%22%3A1671259498%2C%22cookie_hash%22%3A%221deaee8898d2199646cfb8f3b028e28e%22%7D
+devicer.cmsmasters.net	TRUE	/	FALSE	1999999999	yith_woocompare_list_1	%5B13112%2C1663%2C1667%2C13091%2C1664%2C1631%2C1655%2C1665%2C1668%2C13114%2C13719%2C13720%2C13120%2C13163%2C1666%2C13094%2C13104%2C13106%5D
+devicer.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	1665%7C13155%7C1668%7C13114%7C13719%7C13720%7C13120%7C13156%7C13163%7C1667%7C13118%7C1666%7C13094%7C13104%7C13106
+devicer.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	203df5356dd458990607c934a976dacc
+
